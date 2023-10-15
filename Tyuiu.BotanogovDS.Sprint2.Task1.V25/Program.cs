@@ -18,7 +18,7 @@ namespace Tyuiu.BotanogovDS.Sprint2.Task1.V25
 
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* Спринт #2                                                                *");
-            Console.WriteLine("* Тема: Базовые навки работы в C#                                          *");
+            Console.WriteLine("* Тема: Логические операции                                                *");
             Console.WriteLine("* Задание #1                                                               *");
             Console.WriteLine("* Вариант #25                                                              *");
             Console.WriteLine("* Выполнил: Ботаногов Дмитрий Сергеевич | ИСТНб-23-1                       *");

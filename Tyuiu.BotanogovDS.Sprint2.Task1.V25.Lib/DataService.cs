@@ -19,7 +19,7 @@ namespace Tyuiu.BotanogovDS.Sprint2.Task1.V25.Lib
             result[2] = (d >= c) || (b < a);
             result[3] = !(a <= b) && !(d > c);
             result[4] = (c == 325) ^ (d != 857);
-            result[5] = !(b + 93 >= a);
+            result[5] = !(b + 93 >= a); 
 
             return result;
         }
