@@ -10,7 +10,7 @@ namespace Tyuiu.BotanogovDS.Sprint2.Task1.V25.Lib
 {
     public class DataService : ISprint2Task1V25
     {
-        public bool[] GetLogicOperations(int a, int b, int c, int d)
+        public bool[] GetLogicOperations(int a, int b, int c, int d) 
         {
             bool[] result = new bool[6];
 

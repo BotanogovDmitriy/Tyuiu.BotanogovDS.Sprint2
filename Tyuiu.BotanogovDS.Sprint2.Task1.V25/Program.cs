@@ -14,7 +14,7 @@ namespace Tyuiu.BotanogovDS.Sprint2.Task1.V25
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #1 | Выполнил: Ботаногов Д. С. | ИСТНб-23-1";
+            Console.Title = "Спринт #2 | Выполнил: Ботаногов Д. С. | ИСТНб-23-1";
 
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* Спринт #2                                                                *");
