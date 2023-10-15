@@ -9,7 +9,7 @@ namespace Tyuiu.BotanogovDS.Sprint2.Task2.V12.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void ValidCheckDotInShadedArea()
+        public void ValidCheckDotInShadedArea() 
         {
             DataService ds = new DataService();
             int x = 4;

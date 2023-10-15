@@ -10,7 +10,7 @@ namespace Tyuiu.BotanogovDS.Sprint2.Task2.V12.Lib
 {
     public class DataService : ISprint2Task2V12
     {
-        public bool CheckDotInShadedArea(int x, int y)
+        public bool CheckDotInShadedArea(int x, int y) 
         {
             bool res;
 
