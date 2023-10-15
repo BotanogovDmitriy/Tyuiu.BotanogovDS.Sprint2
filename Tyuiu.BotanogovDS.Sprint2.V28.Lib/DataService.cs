@@ -22,7 +22,7 @@ namespace Tyuiu.BotanogovDS.Sprint2.V28.Lib
             result[4] = x + 626 <= y;  
             result[5] = x >= y; 
 
-            return result;
+            return result; 
         }
     }
 }

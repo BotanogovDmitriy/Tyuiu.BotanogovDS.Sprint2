@@ -17,7 +17,7 @@ namespace Tyuiu.BotanogovDS.Sprint2.V28.Test
             bool[] res = new bool[6];
             res = ds.GetCompareOperations(x, y);
             bool[] wait = new bool[6] { false, false, false, false, false, false };
-            CollectionAssert.AreEqual(wait, res);
+            CollectionAssert.AreEqual(wait, res); 
         }
     }
 }

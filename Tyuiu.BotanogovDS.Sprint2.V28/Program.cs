@@ -51,7 +51,7 @@ namespace Tyuiu.BotanogovDS.Sprint2.V28
                 Console.WriteLine(res[i]); 
             }
             
-            Console.ReadLine();
+            Console.ReadLine(); 
         }
     }
 }
