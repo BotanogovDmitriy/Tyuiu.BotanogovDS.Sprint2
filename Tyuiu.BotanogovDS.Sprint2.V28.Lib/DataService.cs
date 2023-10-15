@@ -11,7 +11,7 @@ namespace Tyuiu.BotanogovDS.Sprint2.V28.Lib
     public class DataService : ISprint2Task0V28
     {
 
-        public bool[] GetCompareOperations(int x, int y)
+        public bool[] GetCompareOperations(int x, int y) 
         {
             bool[] result = new bool[6];
 

@@ -11,7 +11,7 @@ namespace Tyuiu.BotanogovDS.Sprint2.V28.Test
         [TestMethod]
         public void ValidGetCompareOperations()
         {
-            DataService ds = new DataService();
+            DataService ds = new DataService(); 
             int x = 111;
             int y = 735;
             bool[] res = new bool[6];
