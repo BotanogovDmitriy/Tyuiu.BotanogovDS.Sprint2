@@ -10,7 +10,7 @@ namespace Tyuiu.BotanogovDS.Sprint2.Task6.V8
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) 
         {
             DataService ds = new DataService();
             

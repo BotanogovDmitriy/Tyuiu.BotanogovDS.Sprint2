@@ -10,7 +10,7 @@ namespace Tyuiu.BotanogovDS.Sprint2.Task6.V8.Test
     {
         [TestMethod]
         public void ValidFindDateOfPreviousDay()
-        {
+        { 
             DataService ds = new DataService();
             Assert.AreEqual("4.10", ds.FindDateOfPreviousDay(10, 5));
         }

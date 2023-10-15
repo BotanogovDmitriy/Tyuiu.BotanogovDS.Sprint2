@@ -18,7 +18,7 @@ namespace Tyuiu.BotanogovDS.Sprint2.Task6.V8.Lib
                 case 1:
                     switch (m)
                     {
-                        case 1:
+                        case 1: 
                             n = 31;
                             m = 12;
                             break;
